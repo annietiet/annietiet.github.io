@@ -8,7 +8,7 @@ function Navbar() {
       <a href="/#/about">About</a> &emsp; 
       <a href="/#/projects">Projects</a> &emsp; 
       <a href="/#/contact">Contact</a> &emsp; 
-      <a href="https://drive.google.com/file/d/1JDntyNsra6H3OAYnBd9wCA12GKgudzQh/view">Resume</a>
+      <a href="/#/resume">Resume</a>
       </div>
     </div>
   );
