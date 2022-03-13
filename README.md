@@ -1,2 +1,1 @@
-# annietiet.github.io
-creating a personal website ⭐️
+# [annietiet.github.io](https://annietiet.github.io)
