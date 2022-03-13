@@ -7,7 +7,6 @@ import Home from './components/Home/Home';
 import About from './components/About/About';
 import Projects from './components/Projects/Projects';
 import Contact from './components/Contact/Contact';
-import Resume from './components/Resume/Resume';
 
 ReactDOM.render(
   <Router>
@@ -17,7 +16,6 @@ ReactDOM.render(
       <Route exact path="/about" element={<About />} />
       <Route exact path="/projects" element={<Projects />} />
       <Route exact path="/contact" element={<Contact />} />
-      <Route exact path="/resume" element={<Resume />} />
     </Routes>
   </Router>,
   document.getElementById('root')
