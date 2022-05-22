@@ -9,7 +9,7 @@ a, a:hover, a:focus, a:active {
 }
 
 img {
-    width: 400px;
+    width: 380px;
     height: auto;
     padding-top: calc(10px + 7vh);
     animation: fadeInAnimation ease 3s;
