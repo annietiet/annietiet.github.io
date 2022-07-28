@@ -2,8 +2,10 @@ import './Resume.css';
 
 function Resume() {
   return (
-      <iframe class="responsive-iframe" title="Resume" src="/Annie_Tiet_Resume.pdf" allow="autoplay">
+    <div>
+      <iframe class="responsive-iframe" title="Resume" src="/Annie_Tiet_Resume.pdf">
       </iframe>
+    </div>
   );
 }
 
