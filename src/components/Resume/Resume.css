@@ -1,16 +1,6 @@
-.Resume {
-    position: relative;
-    width: 100%;
-    padding-top: 62.5%;
-}
-
 .responsive-iframe {
-    position:  absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    width: 100%;
+    position: relative;
+    width: 75%;
     height: 650px;
     text-align: center;
     border: 0;

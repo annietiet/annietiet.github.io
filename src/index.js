@@ -1,24 +1,22 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { HashRouter as Router, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import './index.css';
 import Navbar from './components/Navbar/Navbar';
 import Home from './components/Home/Home';
 import About from './components/About/About';
-import Projects from './components/Projects/Projects';
 import Contact from './components/Contact/Contact';
 import Resume from './components/Resume/Resume';
 
 ReactDOM.render(
-  <Router>
+  <BrowserRouter>
     <Navbar />
     <Routes>
-      <Route exact path="/" element={<Home />} />
-      <Route exact path="/about" element={<About />} />
-      <Route exact path="/projects" element={<Projects />} />
-      <Route exact path="/contact" element={<Contact />} />
-      <Route exact path="/resume" element={<Resume />} />
+      <Route path="/" element={<Home />} />
+      <Route path="/about" element={<About />} />
+      <Route path="/contact" element={<Contact />} />
+      <Route path="/resume" element={<Resume />} />
     </Routes>
-  </Router>,
+  </BrowserRouter>,
   document.getElementById('root')
 );
