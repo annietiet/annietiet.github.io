@@ -3,7 +3,7 @@ import reveal from './reveal.png';
 
 function Home() {
   return (
-    <div class name="Home">
+    <div className="Home">
       <img src={reveal} alt="THE BOYZ Reveal logo"/>
     </div>
   );
