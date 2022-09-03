@@ -47,11 +47,11 @@ function About() {
         <p>
         hi! i'm annie - i study software engineering at rochester institute of technology and graduate in may 2024.
         <br></br><br></br>
-        i've been interested in computing since a young age. at 10 years old, i started selling user profiles on a game called tinierme,  
-        where i used html and css to create custom 'about me pages' in exchange for virtual dress up fashion items. i continued gaining
+        i've been interested in computing since a young age. at 10 years old, i started creating user pages on a game called tinierme,  
+        where i used html and css to make custom profile layouts in exchange for virtual fashion items. i continued gaining
         an exposure when i took ap computer science principles and ap computer science in high school. i also attended
-        a girls who code summer camp at rit, and participated in a local k-12 female hackathon, rocgirlhacks. both of those events were held with 
-        support from the women in computing organization @ rit, which i am a part of today!
+        a girls who code campus summer program at rit, and participated in a local grade 6-12 female hackathon, rocgirlhacks. both of those events were held with 
+        support and collaboration from the women in computing organization @ rit, which i am a part of today!
         <br></br><br></br>
         i am passionate about having a welcoming environment in tech for all. the early outreach i encountered in the past provided
         me with a safe space to explore and learn about computing, which i would like the same for anyone and everyone. as part of this,
